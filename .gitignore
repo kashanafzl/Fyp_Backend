@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Build output
+build/
+dist/
+
+# Static files
+*.css
+*.css.map
+*.js
+*.js.map
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+.idea/
+.vscode/
+
+# Local environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm and Yarn caches
+.npm/
+.yarn/
+
+# eslint and Prettier
+.eslintcache
+.prettiercache
